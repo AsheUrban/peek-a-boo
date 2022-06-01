@@ -6,7 +6,12 @@
   width: 300px;
 }
 
-.clickable {
+.show {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.hide {
   cursor: pointer;
   color: #0088cc;
 }
